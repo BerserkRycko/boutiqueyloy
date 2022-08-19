@@ -1,15 +1,16 @@
 baseURL = ""
 title = "Boutique Yloy"
-author = "John Doe"
+author = "Rycko"
 theme = "simple-snipcart-shop"
 contentDir = "products"
 [params]
-  instagram = "example_handle"
-  header = "Welcome to My Happy Little Shop!"
-  description = "We make stuff and things"
-  products_title = "Our stuff"
-  reviews_title = "Our reviews"
-  not_found = "Sorry, but we do not have any products in this category yet."
+  instagram = "boutique_yloy"
+  facebook = "boutiqueyloy"
+  header = "Bienvenido a Boutique Yloy!"
+  description = "Accesorios útiles, comodos y bonitos"
+  products_title = "Nuestros productos"
+  reviews_title = "Nuestras recomendaciones"
+  not_found = "Lo sentimos no tenemos productos en esta categoria."
   categories = [
     "For you",
     "For the home",
